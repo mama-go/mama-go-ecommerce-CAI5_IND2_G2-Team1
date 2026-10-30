@@ -65,7 +65,7 @@ Test budget: EGP 1,000 over 14 days (Awareness 500, Consideration 300, Conversio
 | Conversion | ROAS | 3x or more |
 
 ## Instructor
-[Instructor name]
+[Andrew Atef - Mahmoud Al Nahal]
 
 ## Project Files
 | Item | Link |
